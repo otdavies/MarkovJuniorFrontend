@@ -2,7 +2,8 @@
 Why? Because a frontend would be nice.
 
 ## Running the Project
-Once you've pulled the project, installed dependencies with `npm install` (or `pnpm install` or `yarn`)
+Pulled the project and install dependencies with `npm install` (or `pnpm install` or `yarn`)
+
 **To start a development server:**
 ```bash
 npm run dev
