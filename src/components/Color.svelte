@@ -1,11 +1,7 @@
 <script>
-	export /**
-	 * @type {String}
-	 */
+	export /**@type {String}*/
 	let color;
-	export /**
-	 * @type {String}
-	 */
+	export /**@type {String}*/
 	let size;
 </script>
 
